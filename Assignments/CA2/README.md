@@ -5,7 +5,7 @@ The scientists have given us flyover photos of a local forest and corresponding 
 
 ![Alt text](./Birch.jpg?raw=true "Title")
 
-![Alt text](./Birch_mask.jpg?raw=true "Title")
+![Alt text](./Birch_mask.png?raw=true "Title")
 
 You will participate in an InClass Kaggle competition. Only students enrolled in the DAT300 course are allowed to participate.
 
