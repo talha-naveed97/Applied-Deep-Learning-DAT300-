@@ -3,8 +3,6 @@ We have been tasked by scientists to assist them in doing an analysis of the spr
 
 The scientists have given us flyover photos of a local forest and corresponding image masks showing where in the image birch trees are. The image masks consist of binary values (0=not birch, 1=birch) and the goal is to use the dataset to train a model to perform semantic segmentation.
 
-https://github.com/talha-naveed97/Applied-Deep-Learning-DAT300-/blob/main/Assignments/CA2/Birch.jpg
-
 ![Alt text](./Applied-Deep-Learning-DAT300/Assignments/CA2/Birch.jpg?raw=true "Title")
 
 You will participate in an InClass Kaggle competition. Only students enrolled in the DAT300 course are allowed to participate.
