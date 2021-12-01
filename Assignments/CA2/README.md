@@ -2,8 +2,6 @@
 We have been tasked by scientists to assist them in doing an analysis of the spread of birch trees in a local forest.
 
 The scientists have given us flyover photos of a local forest and corresponding image masks showing where in the image birch trees are. The image masks consist of binary values (0=not birch, 1=birch) and the goal is to use the dataset to train a model to perform semantic segmentation.
-![Image 1](https://nmbu.instructure.com/courses/7109/files/1396047/preview)
-Flyover imageBirch_mask.png
 
 You will participate in an InClass Kaggle competition. Only students enrolled in the DAT300 course are allowed to participate.
 
