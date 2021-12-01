@@ -5,6 +5,8 @@ The scientists have given us flyover photos of a local forest and corresponding 
 
 https://github.com/talha-naveed97/Applied-Deep-Learning-DAT300-/blob/main/Assignments/CA2/Birch.jpg
 
+![Alt text](./Applied-Deep-Learning-DAT300-/blob/main/Assignments/CA2/Birch.jpg?raw=true "Title")
+
 You will participate in an InClass Kaggle competition. Only students enrolled in the DAT300 course are allowed to participate.
 
 Link to our InClass competition on Kaggle:
